@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>6</LogNumber>
-    <LogTimeStamp>01/22/2021 23:35:41</LogTimeStamp>
+    <LogNumber>38</LogNumber>
+    <LogTimeStamp>08/03/2022 13:26:03</LogTimeStamp>
     <ePSA_Data>
-      <Result>Not Reported</Result>
-      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <Result>Abort</Result>
+      <ReturnCode>BOOT_SHUTDOWN</ReturnCode>
+      <DevicesTested>Memory, Hard Drive</DevicesTested>
       <ePSAFullVersion>4400.07</ePSAFullVersion>
-      <ePSAInvocationCount>1</ePSAInvocationCount>
+      <ePSAInvocationCount>3</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
-      <ErrorCategory>KBD_FAIL</ErrorCategory>
-      <ErrorMessage><![CDATA[Alert! Keyboard not found.]]></ErrorMessage>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <ErrorMessage><![CDATA[Operating System Loader failed signature verification. WARNING: The file may have been tampered with! All bootable devices failed Secure Boot verification.
+]]></ErrorMessage>
       <SOS_Available>FALSE</SOS_Available>
-      <TimeOutSeconds>3</TimeOutSeconds>
+      <TimeOutSeconds>0</TimeOutSeconds>
     </BIOS_Data>
   </SupportAssistPrebootDiagnosticLog>
