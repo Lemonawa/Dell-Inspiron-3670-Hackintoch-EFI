@@ -1,4 +1,5 @@
-OpenCore EFI file for Dell Inspiron 3670
+![Dell-Inspiron-3670-Hackintoch-EFI](https://user-images.githubusercontent.com/69106050/210545049-ca3bd112-88fc-43b2-940d-3b9278b27857.png)
+
 ## Version: 0.8.7
 ## Info:
 * CPU: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
