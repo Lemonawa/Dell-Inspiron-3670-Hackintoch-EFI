@@ -1,4 +1,4 @@
-![Dell-Inspiron-3670-Hackintoch-EFI](https://user-images.githubusercontent.com/69106050/210545049-ca3bd112-88fc-43b2-940d-3b9278b27857.png)
+![Dell-Inspiron-3670-Hackintoch-EFI](https://socialify.git.ci/Lemonawa/Dell-Inspiron-3670-Hackintoch-EFI/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 ## Version: 0.8.7
 ## Info:
