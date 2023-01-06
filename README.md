@@ -27,5 +27,3 @@
 * OS type: Windows 8.1/10 UEFI Mode (some motherboards may require "Other OS" instead)
 * DVMT Pre-Allocated(iGPU Memory): 64MB or higher
 * SATA Mode: AHCI
-## Update Logs
-2023/01/04 Rebuild all files;Update README.
