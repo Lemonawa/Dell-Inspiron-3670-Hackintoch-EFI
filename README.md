@@ -1,10 +1,10 @@
 ![Dell-Inspiron-3670-Hackintoch-EFI](https://socialify.git.ci/Lemonawa/Dell-Inspiron-3670-Hackintoch-EFI/image?description=1&forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Light)
 
-## Version: 0.8.8
+## Version: 0.9.0
 ## Info:
 * CPU: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
 * Display: Intel(R) UHD Graphics 630 | NVIDIA GeForce GT 710
-* Wireless: Atheros AR9565 802.11b/g/n Wireless Network Adapter
+* Wireless: Atheros AR9565 802.11b/g/n Wireless Network Adapter (NOT AVAILABLE YET)
 * Ethernet: Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
 ## BIOS Configuation
 ### Disable
